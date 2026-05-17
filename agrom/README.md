@@ -7,6 +7,7 @@
 | vowel (V) |  | a |  | r | i |  | u | n |
 | # Allophones | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | word-initial | [ʔ] | [k] | [ʈ] | [ʂ]~[ɹ̝̊] | [s]~[ɕ] | [t̪] | [p] | [ṃ] |
+| post-affricate | [ʔ] | [k] | [ʈ] | [ɹ̝̊] | [ɕ] | [t̪] | [p] | [ṃ] |
 | post-laryngeal + pre-consonant | [ʔ̞] | [x] | [ʂ] | [d͡ɹ̝] | [d͡ʑ] | [s̪] | [ɸ] | [ṃ] |
 | post-laryngeal + pre-vowel | [ʔ̞] | [ɣ] | [ɽ] | [r] | [ɕ] | [ð] | [β] | [ṃ] |
 | post-vowel + pre-consonant | [h] | [ɣ] | [ɽ] | [r] | [ɕ] | [ð] | [β] | [ṃ] |
