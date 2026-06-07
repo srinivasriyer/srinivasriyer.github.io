@@ -24,7 +24,7 @@
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 
 
-[^1] The above table describes the rules of 12 prime phonemes and its allophones.
+[^1] The above table describes the rules of 12 prime phonemes of archaic-tamil and its allophones.
 Section [#1] shows the 12 phonemes and their absolute pronounciation in IPA, separated by a colon ( : ). Section [#2] shows the allophones of the stops and the affricates. Section [#3] shows the allophones of the vowels.
 
 [^2] 
