@@ -1,4 +1,4 @@
-# ARCHAIC-TAMIL (sumero-tamil)
+# ARCHAIC-TAMIL (sumerian-tamil)
 
 | #1 Phonemes | laryngeal (L) | velar | apical | apical (A) | lamianal (A) | laminal | labial | nasal (N) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
