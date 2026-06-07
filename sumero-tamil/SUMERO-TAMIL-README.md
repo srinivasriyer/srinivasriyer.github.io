@@ -1,4 +1,4 @@
-# SUMERO-TAMIL (sumerian tamil or archaic tamil)
+# ARCHAIC-TAMIL (sumero-tamil)
 
 | #1 Phonemes | laryngeal (L) | velar | apical | apical (A) | lamianal (A) | laminal | labial | nasal (N) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -25,7 +25,7 @@
 
 
 [^1] The above table describes the rules of 12 prime phonemes and its allophones.
-Section [#1] shows the 12 phonemes nnd their absolute pronounciation in IPA, separated by a colon ( : ). Section [#2] shows the allophones of the stops and the affricates. Section [#3] shows the allophones of the vowels.
+Section [#1] shows the 12 phonemes and their absolute pronounciation in IPA, separated by a colon ( : ). Section [#2] shows the allophones of the stops and the affricates. Section [#3] shows the allophones of the vowels.
 
 [^2] 
 A vowel lenites the phoneme comes after it. A consonant fortites the phoneme that precedes it. The lenis and fortis allphones of the phonemes are shown separated by a comma (,). The fortis allophone occurs pre-consonant. The alternate allophones are separated by tilde (~)
