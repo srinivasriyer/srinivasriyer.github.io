@@ -28,3 +28,6 @@ Section [#1] shows the 12 phonemes and their absolute pronounciation in IPA, sep
 
 [^2] 
 A vowel lenites the phoneme comes after it. A consonant fortites the phoneme that precedes it. The lenis and fortis allphones of the phonemes are shown separated by a comma (,). The fortis allophone occurs pre-consonant. The alternate allophones are separated by tilde (~)
+
+[^3] The laryngeal stop h is a consonant that acts like a vowel. The nasal vowel n is a vowel that acts like a consonant. The affricates ř and č being composites exhibit properties of both stops and vowels.
+
