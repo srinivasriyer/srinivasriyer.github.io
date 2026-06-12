@@ -32,6 +32,3 @@ A vowel lenites the phoneme comes after it. A consonant fortites the phoneme tha
 
 [^3] The laryngeal stop h is a consonant that acts like a vowel. The nasal vowel n is a vowel that acts like a consonant. The affricates ř and č being composites exhibit properties of both stops and vowels.
 
-
-
-[^3] The laryngeal stop h is a consonant that acts like a vowel. The nasal vowel n is a vowel that acts like a consonant. The affricates ř and č being composites exhibit properties of both stops and vowels.
