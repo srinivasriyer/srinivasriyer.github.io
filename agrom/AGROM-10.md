@@ -3,7 +3,7 @@
 | #1 Phonemes | laryngeal (L) | velar | apical | laminal | labial | nasal (N) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | stop (S) | h : /ʔ/ | k : /k/ | d : /ʈ/ | t : /t̪/ | p : /p/ |  |
-| vowel (V) |  | e : /ɐ/| l : /l/ | j : /i/ | w : /u/ | n : /ṃ/ |
+| vowel (V) |  | e : /ɐ/| r : /r̩/ | i : /i/ | u : /u/ | n : /ṃ/ |
 | #2 Allophones | :-: | :-: | :-: | :-: | :-: | :-: |
 | word-initial | [ʔ]~[ʔ̞] | [k] | [ʈ] | [t̪] | [p] | [ṃ] |
 | post-stop | [ʔ]~[ʔ̞] | [k] | [ʈ] | [t̪] | [p] | [ṃ] |
@@ -15,8 +15,8 @@
 | nasal onset compound | [ṃɦ]~[ṃʔ̞] | [ŋg]~[ŋŋ] | [ɳɖ]~[ɳɳ] | [n̪d̪]~[n̪n̪] | [mb]~[mm] | [ṃ] |
 | nasalized | [ʔ̞] | [ŋ] | [ɳ] | [n̪] | [m] | [ṃ] |
 | #3 Vocalics | :-: | :-: | :-: | :-: | :-: | :-: |
-| word-intial | [ʔ̞]~[ɨ] | [ɐ] | [l̩] | [i] | [u] | [ṃ] |
-| word-final | [ʔ̞] | [ə] | [l] | [i] | [ɯ] | [ṃ] |
+| word-intial | [ʔ̞]~[ɨ] | [ɐ] | [r̩] | [i] | [u] | [ṃ] |
+| word-final | [ʔ̞] | [ə] | [r̩] | [i] | [ɯ] | [ṃ] |
 | pre-laryngeal compound | [hʔ̞] | [ɣ] | [ɬ] | [ɕ] | [β] | [ṃʔ̞] |
 | laryngeal onset compound | [hʔ̞] | [ä] | [l̩] | [æ] | [ɔ] | [ʔ̞ṃ] |
 | post-vocalic | [ʔ̞] | [ɰ] | [l] | [j] | [w] | [ṃ] |
